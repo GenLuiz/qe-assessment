@@ -8,7 +8,7 @@ This is the basis for the automation assessment.
 
 ## Steps to download the code locally
 1. Open CMD (Windows) or Terminal (Linux, MacOS)
-2. Clone the project: `git clone https://gitlab.com/test-automation-assessment/qe-assessment.git`
+2. Clone the project: `git clone https://github.com/GenLuiz/qe-assessment.git`
 3. Create your remote branch from the master and check it out to start your assessment: `git checkout -b assessment/your_wipro_id`
     
     
